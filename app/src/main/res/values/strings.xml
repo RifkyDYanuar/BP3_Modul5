@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BP3_ExplicitIntent</string>
+    <string name="name">Pindah Activity | INTENT EXPLICIT</string>
+    <string name="move">This is move activity</string>
+    <string name="name_data">Pindah Activity | INTENT EXPLICIT WITH DATA</string>
+    <string name="implicit">INTENT IMPLICIT</string>
+    <string name="dial">Dial Number</string>
+
+</resources>
